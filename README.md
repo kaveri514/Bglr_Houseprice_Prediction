@@ -36,11 +36,19 @@ The model is trained on a real Bengaluru housing dataset and deployed using Stre
 
 ---
 
-## 📊 Model
+## 🧠 Machine Learning Details
 
-* Algorithm: XGBoost Regressor
-* Evaluation Metric: R² Score
-* Handles location using One-Hot Encoding
+* **Algorithm Used:** XGBoost Regressor
+* **Problem Type:** Regression
+
+### 📊 Model Performance
+
+* **R² Score:** 0.51
+* **MAE:** Moderate prediction error
+
+👉 The current model serves as a **baseline implementation**.
+Performance can be improved further using advanced feature engineering and better data preprocessing.
+
 
 ---
 
