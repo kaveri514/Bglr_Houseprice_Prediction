@@ -95,8 +95,4 @@ Dataset taken from publicly available Bengaluru housing data (Kaggle).
 
 ---
 
-## 📬 Contact
 
-Your Name
-Your Email
-GitHub: https://github.com/your-username
