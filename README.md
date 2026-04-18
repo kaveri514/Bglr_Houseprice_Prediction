@@ -7,7 +7,7 @@ A simple Machine Learning web app that predicts house prices in Bengaluru based 
 ## 🚀 Live App
 
 Add your deployed link here:
-👉 https://your-app-name.streamlit.app
+👉 [https://your-app-name.streamlit.app](https://bglrhousepriceprediction-lifs6xi93ca5agyjdcqzdc.streamlit.app/)
 
 ---
 
